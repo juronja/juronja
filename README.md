@@ -4,11 +4,9 @@
 
 ## My Stack
 
-### Development Environment
+### Development Environment & Infrastructure
 ![Static Badge](https://img.shields.io/badge/VS_Code-lightblue?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### Infrastructure & Virtualization
 ![Static Badge](https://img.shields.io/badge/Proxmox-gray?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TrueNAS-gray?style=for-the-badge&logo=truenas&logoColor=white)
 <!-- ![Static Badge](https://img.shields.io/badge/Home_Assistant-gray?style=for-the-badge&logo=homeassistant&logoColor=white) -->
@@ -32,7 +30,7 @@
 ![Static Badge](https://img.shields.io/badge/Wireguard-gray?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cloudflare-Foundational-lightblue?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### DevOps & CI/CD
+### CI/CD
 ![Static Badge](https://img.shields.io/badge/Nexus-gray?style=for-the-badge&logo=sonatype&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jenkins-Competent-orange?style=for-the-badge&logo=jenkins&logoColor=white)
 
